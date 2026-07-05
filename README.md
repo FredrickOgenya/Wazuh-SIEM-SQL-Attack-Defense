@@ -1,4 +1,5 @@
-[CompTIA Security+ Portfolio Topic.pdf](https://github.com/user-attachments/files/29670306/CompTIA.Security%2B.Portfolio.Topic.pdf)
+[CompTIA Security+Wazuh-SIEM-SQL-Attack-Defense.pdf](https://github.com/user-attachments/files/29670342/CompTIA.Security%2BWazuh-SIEM-SQL-Attack-Defense.pdf)
+
 # Wazuh-SIEM-SQL-Attack-Defense 
 
 Executive Summary
