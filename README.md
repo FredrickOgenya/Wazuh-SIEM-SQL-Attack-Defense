@@ -1,9 +1,6 @@
 [CompTIA Security+ Portfolio Topic.pdf](https://github.com/user-attachments/files/29670306/CompTIA.Security%2B.Portfolio.Topic.pdf)
 # Wazuh-SIEM-SQL-Attack-Defense 
-Author: Fredrick Onyango Ogenya
-Date: July 2026
-Certification Target: CompTIA Security+ (SY0-701)
-Portfolio Domain: Security Operations & Incident Response
+
 Executive Summary
 This portfolio entry demonstrates applied knowledge of core CompTIA Security+ exam objectives through practical analysis, hands-on implementation, and strategic security planning. The Security+ certification validates baseline skills necessary to perform core security functions and pursue an IT security career. This write-up focuses on Domain 4: Security Operations and Domain 5: Security Program Management and Oversight, integrating concepts from all five Security+ domains
 1. Introduction to CompTIA Security+
