@@ -1,3 +1,4 @@
+[CompTIA Security+ Portfolio Topic.pdf](https://github.com/user-attachments/files/29670306/CompTIA.Security%2B.Portfolio.Topic.pdf)
 # Wazuh-SIEM-SQL-Attack-Defense 
 Author: Fredrick Onyango Ogenya
 Date: July 2026
